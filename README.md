@@ -104,6 +104,8 @@ I will perform all user stories
 By visiting the application on Heroku.
 Localhost is fine for development, but
 the application must be hosted on Heroku.
+
+Use this guide for help: https://devcenter.heroku.com/articles/getting-started-with-rails5
 ```
 
 ## Shelters
