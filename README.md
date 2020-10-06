@@ -112,7 +112,7 @@ Use this guide for help: https://devcenter.heroku.com/articles/getting-started-w
 Shelters are organizations that have pets available for adoption.
 
 ```
-- [X] done
+[ ] done
 
 User Story 2, Shelter Index
 
