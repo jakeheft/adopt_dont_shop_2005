@@ -159,7 +159,7 @@ and I am redirected to the Shelter Index page where I see the new Shelter listed
 ```
 
 ```
-[XT] done
+[X] done
 
 User Story 5, Shelter Update
 
