@@ -310,7 +310,7 @@ and I am redirected to the pet index page where I no longer see this pet
 Users should be able to use the site easily. This means making sure there are links/buttons to reach all parts of the site and the styling/layout is sensible.
 
 ```
-[X] done
+[XT] done
 
 User Story 13, Shelter Update From Shelter Index Page
 
@@ -322,7 +322,7 @@ I should be taken to that shelters edit page where I can update its information 
 ```
 
 ```
-[X] done
+[XT-F] done
 
 User Story 14, Shelter Delete From Shelter Index Page
 
@@ -377,7 +377,7 @@ Then that link takes me to that Pet's show page
 ```
 
 ```
-[ ] done
+[X] done
 
 User Story 19, Pet Index Link
 
@@ -387,7 +387,7 @@ Then I see a link at the top of the page that takes me to the Pet Index
 ```
 
 ```
-[ ] done
+[X] done
 
 User Story 20, Shelter Index Link
 
@@ -397,7 +397,7 @@ Then I see a link at the top of the page that takes me to the Shelter Index
 ```
 
 ```
-[ ] done
+[X] done
 
 User Story 21, Shelter Pet Index Link
 
