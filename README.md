@@ -322,7 +322,7 @@ I should be taken to that shelters edit page where I can update its information 
 ```
 
 ```
-[XT-F] done
+[ ] done
 
 User Story 14, Shelter Delete From Shelter Index Page
 
@@ -357,7 +357,7 @@ I should be taken to the pets index page where I no longer see that pet
 ```
 
 ```
-[ ] done
+[X] done
 
 User Story 17, Shelter Links
 
