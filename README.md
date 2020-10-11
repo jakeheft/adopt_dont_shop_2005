@@ -367,7 +367,7 @@ Then that link takes me to that Shelter's show page
 ```
 
 ```
-[ ] done
+[X] done
 
 User Story 18, Pet Links
 
